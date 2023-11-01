@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keanu</h1>
-<h3 align="center">A passionate Fullstack developer from Germany</h3>
+<h3 align="center">A passionate Full Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on [PABLO](www.pablo-game.com)
 
