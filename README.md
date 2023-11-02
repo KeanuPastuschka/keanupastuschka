@@ -6,13 +6,13 @@
 ### <div align="center">I'm Keanu, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on PABLO  
+- 🔭 I’m currently working on PABLO ( www.pablo-game.com ) 
   
 
 - 🌱 I’m currently learning Angular and Ionic  
   
 
-- ⚡ Fun fact:JavaScript does not look like Java  
+- ⚡ Fun fact: JavaScript does not look like Java  
   
 
 <br/>  
