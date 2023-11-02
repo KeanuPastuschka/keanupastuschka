@@ -1,6 +1,6 @@
-<div align="center">
-<!--<img src="" align="center" style="width: 100%" />-->
-</div>  
+<!--<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  -->
   
 
 ### <div align="center">I'm Keanu, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
@@ -94,4 +94,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
